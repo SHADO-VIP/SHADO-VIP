@@ -43,7 +43,7 @@ A personal portfolio showcasing my work in AI, web development, and multimedia.
 ## 📫 Connect with me
 
 - GitHub: https://github.com/SHADO-VIP
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: https://www.linkedin.com/in/shadia-sarhan-36550823a/
 
 ---
 
