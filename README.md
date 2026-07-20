@@ -9,7 +9,7 @@ I build AI-powered web applications and creative tools for media, automation, an
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge)
 
 ---
 
